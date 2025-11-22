@@ -39,7 +39,7 @@ The site has a custom animated background, smooth UI, and a real **Node.js backe
 ## 📁 Project Structure
 
 ```bash
-cyber security/
+Portfolio /
 ├── frontend/
 │   ├── index.html        # Main portfolio page
 │   ├── styles.css        # Layout & animations
